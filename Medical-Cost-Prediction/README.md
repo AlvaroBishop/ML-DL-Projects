@@ -4,7 +4,7 @@ This repository is focused on predicting medical costs. It explores different ap
 
 ## Dataset
 
-The dataset used for this project is [Insurance Data](https://www.kaggle.com/datasets/mirichoi0218/insurance), hosted on GitHub at [insurance.csv](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv).
+The dataset used for this project is [Insurance Data](https://www.kaggle.com/datasets/mirichoi0218/insurance) from Kaggle, hosted on GitHub at [insurance.csv](https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv).
 
 ## Frameworks
 
